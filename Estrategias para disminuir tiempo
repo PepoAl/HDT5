@@ -1,0 +1,24 @@
+Estrategias : Cuando Aumento la RAM a 200 no parece que ayude mucho es más el tiempo aumenta y no disminuye
+Aunque luego probé con más RAM y empezó a haber un poco menos de tiempo pero no tan significativo. 
+Al aumentar la velocidad del CPU pasó lo mismo cuando puse 6 el tiempo aumento, 
+aunque cuando lo bajé a 2 el tiempo fue menor, luego probé con 1 y el tiempo disminuyó más.
+
+Aumento de RAM:
+
+Aunque puede ser intuitivo pensar que más RAM debería acelerar las cosas, hay casos en los que un exceso de RAM puede no proporcionar beneficios significativos. 
+Esto podría deberse a otros cuellos de botella en el sistema, como la velocidad del CPU o la eficiencia de la gestión de memoria.
+
+Aumento de la velocidad del CPU:
+
+Un aumento en la velocidad del CPU debería teóricamente reducir el tiempo de ejecución, ya que más instrucciones se realizan en una unidad de tiempo. 
+Sin embargo, hay un punto en el que aumentar la velocidad del CPU puede tener rendimientos decrecientes, ya que otros componentes del sistema pueden limitar el rendimiento global.
+
+Tiempos de espera y concurrencia:
+
+Ajustar el intervalo de llegada de procesos y el número total de procesos en el sistema puede tener un impacto en la concurrencia y los tiempos de espera. 
+Un sistema con una alta concurrencia y múltiples procesos compitiendo por recursos podría experimentar más tiempos de espera y, por lo tanto, tiempos de ejecución más largos.
+
+Complejidad del modelo:
+
+La simulación proporcionada es un modelo simplificado y puede no capturar todas las complejidades del comportamiento del sistema real. 
+Los resultados pueden variar según la configuración específica de los parámetros y la dinámica de los procesos.
